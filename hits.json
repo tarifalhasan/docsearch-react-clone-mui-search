@@ -1,0 +1,50 @@
+[
+    {
+        "index_name": "css grid templete",
+        "start_urls": [
+          "https://www.website.com/"
+        ],
+        "selectors": {
+          "lvl0": "#content h1",
+          "lvl1": "#content h2",
+          "text": "#content p"
+        },
+        "only_content_level": true
+      },
+    {
+        "index_name": "mui grid templete",
+        "start_urls": [
+          "https://www.website.com/"
+        ],
+        "selectors": {
+          "lvl0": "#content h1",
+          "lvl1": "#content h2",
+          "text": "#content p"
+        },
+        "only_content_level": true
+      },
+    {
+        "index_name": "html templete",
+        "start_urls": [
+          "https://www.website.com/"
+        ],
+        "selectors": {
+          "lvl0": "#content h1",
+          "lvl1": "#content h2",
+          "text": "#content p"
+        },
+        "only_content_level": true
+      },
+    {
+        "index_name": "javascrpt grid templete",
+        "start_urls": [
+          "https://www.website.com/"
+        ],
+        "selectors": {
+          "lvl0": "#content h1",
+          "lvl1": "#content h2",
+          "text": "#content p"
+        },
+        "only_content_level": true
+      }
+]
